@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "i/4VYj+OiAHFc/i4QJDzUkI0M+y306CLyrCdgI8DMMCUzmlmcyZ+Lp4B1DfgeUZVneST4LMPZhN/24r2pYn5wQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diego Francisco\\Documents\\Funcional.Health.Bank\\Funcional.Health.Bank\\Funcional.Health.Bank.Api\\Funcional.Health.Bank.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diego Francisco\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
