@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Funcional.Health.Bank.Api</name>
+    </assembly>
+    <members>
+        <member name="M:Funcional.Health.Bank.Api.Controllers.WeatherForecastController.Get">
+            <summary>
+            Lista de um projeto default do VS.
+            </summary>
+            <returns>Os itens da To-do list</returns>
+            <response code="200">Returna os itens da To-do list cadastrados</response>
+        </member>
+    </members>
+</doc>

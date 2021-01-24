@@ -1,0 +1,8 @@
+C:\Users\Diego Francisco\Documents\Funcional.Health.Bank\Funcional.Health.Bank\Funcional.Health.Bank.Interface\bin\Debug\netcoreapp3.1\Funcional.Health.Bank.Interface.deps.json
+C:\Users\Diego Francisco\Documents\Funcional.Health.Bank\Funcional.Health.Bank\Funcional.Health.Bank.Interface\bin\Debug\netcoreapp3.1\Funcional.Health.Bank.Interface.dll
+C:\Users\Diego Francisco\Documents\Funcional.Health.Bank\Funcional.Health.Bank\Funcional.Health.Bank.Interface\bin\Debug\netcoreapp3.1\Funcional.Health.Bank.Interface.pdb
+C:\Users\Diego Francisco\Documents\Funcional.Health.Bank\Funcional.Health.Bank\Funcional.Health.Bank.Interface\obj\Debug\netcoreapp3.1\Funcional.Health.Bank.Interface.AssemblyInfoInputs.cache
+C:\Users\Diego Francisco\Documents\Funcional.Health.Bank\Funcional.Health.Bank\Funcional.Health.Bank.Interface\obj\Debug\netcoreapp3.1\Funcional.Health.Bank.Interface.AssemblyInfo.cs
+C:\Users\Diego Francisco\Documents\Funcional.Health.Bank\Funcional.Health.Bank\Funcional.Health.Bank.Interface\obj\Debug\netcoreapp3.1\Funcional.Health.Bank.Interface.csproj.CoreCompileInputs.cache
+C:\Users\Diego Francisco\Documents\Funcional.Health.Bank\Funcional.Health.Bank\Funcional.Health.Bank.Interface\obj\Debug\netcoreapp3.1\Funcional.Health.Bank.Interface.dll
+C:\Users\Diego Francisco\Documents\Funcional.Health.Bank\Funcional.Health.Bank\Funcional.Health.Bank.Interface\obj\Debug\netcoreapp3.1\Funcional.Health.Bank.Interface.pdb

@@ -23,6 +23,11 @@ namespace Funcional.Health.Bank.Api.Controllers
 			_logger = logger;
 		}
 
+		/// <summary>
+		/// Lista de um projeto default do VS.
+		/// </summary>
+		/// <returns>Os itens da To-do list</returns>
+		/// <response code="200">Returna os itens da To-do list cadastrados</response>
 		[HttpGet]
 		public IEnumerable<WeatherForecast> Get()
 		{

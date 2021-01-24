@@ -1,10 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "i/4VYj+OiAHFc/i4QJDzUkI0M+y306CLyrCdgI8DMMCUzmlmcyZ+Lp4B1DfgeUZVneST4LMPZhN/24r2pYn5wQ==",
+  "dgSpecHash": "0z7AAIS3oKj5Fq2frLTLpypBffQ1MztKdHSgi76q3CdkUgf2bQ7ApkVRi466WHJ3xVRRTjDYTmYKlpKUsdiwbg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Diego Francisco\\Documents\\Funcional.Health.Bank\\Funcional.Health.Bank\\Funcional.Health.Bank.Api\\Funcional.Health.Bank.Api.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Diego Francisco\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+    "C:\\Users\\Diego Francisco\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Diego Francisco\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Diego Francisco\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
+    "C:\\Users\\Diego Francisco\\.nuget\\packages\\swashbuckle.aspnetcore\\5.5.0\\swashbuckle.aspnetcore.5.5.0.nupkg.sha512",
+    "C:\\Users\\Diego Francisco\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Diego Francisco\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.5.0\\swashbuckle.aspnetcore.swaggergen.5.5.0.nupkg.sha512",
+    "C:\\Users\\Diego Francisco\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.5.0\\swashbuckle.aspnetcore.swaggerui.5.5.0.nupkg.sha512"
   ],
   "logs": []
 }
