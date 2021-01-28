@@ -40,15 +40,6 @@ namespace Funcional.Health.Bank.Api
 				f.IncludeXmlComments(xmlPath);
 			});
 
-
-
-			//services
-			//	.RegisterDataContexts(Configuration)
-			//	.RegisterDataAccess(Configuration)
-			//	.RegisterServices(Configuration)
-			//;
-
-			//services.AddLocalization();
 		}
 
 		// This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
