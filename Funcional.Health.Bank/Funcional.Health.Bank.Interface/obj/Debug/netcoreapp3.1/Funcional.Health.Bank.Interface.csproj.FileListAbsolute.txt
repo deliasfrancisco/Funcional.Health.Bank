@@ -6,3 +6,7 @@ C:\Users\Diego Francisco\Documents\Funcional.Health.Bank\Funcional.Health.Bank\F
 C:\Users\Diego Francisco\Documents\Funcional.Health.Bank\Funcional.Health.Bank\Funcional.Health.Bank.Interface\obj\Debug\netcoreapp3.1\Funcional.Health.Bank.Interface.csproj.CoreCompileInputs.cache
 C:\Users\Diego Francisco\Documents\Funcional.Health.Bank\Funcional.Health.Bank\Funcional.Health.Bank.Interface\obj\Debug\netcoreapp3.1\Funcional.Health.Bank.Interface.dll
 C:\Users\Diego Francisco\Documents\Funcional.Health.Bank\Funcional.Health.Bank\Funcional.Health.Bank.Interface\obj\Debug\netcoreapp3.1\Funcional.Health.Bank.Interface.pdb
+C:\Users\Diego Francisco\Documents\Funcional.Health.Bank\Funcional.Health.Bank\Funcional.Health.Bank.Interface\obj\Debug\netcoreapp3.1\Funcional.Health.Bank.Interface.csprojAssemblyReference.cache
+C:\Users\Diego Francisco\Documents\Funcional.Health.Bank\Funcional.Health.Bank\Funcional.Health.Bank.Interface\bin\Debug\netcoreapp3.1\Funcional.Health.Bank.Domain.dll
+C:\Users\Diego Francisco\Documents\Funcional.Health.Bank\Funcional.Health.Bank\Funcional.Health.Bank.Interface\bin\Debug\netcoreapp3.1\Funcional.Health.Bank.Domain.pdb
+C:\Users\Diego Francisco\Documents\Funcional.Health.Bank\Funcional.Health.Bank\Funcional.Health.Bank.Interface\obj\Debug\netcoreapp3.1\Funcional.Health.Bank.Interface.csproj.CopyComplete

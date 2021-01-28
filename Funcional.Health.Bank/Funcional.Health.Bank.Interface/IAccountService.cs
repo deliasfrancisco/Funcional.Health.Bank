@@ -1,4 +1,6 @@
-﻿using Newtonsoft.Json.Linq;
+﻿using Funcional.Health.Bank.Domain.DTOs;
+using Funcional.Health.Bank.Domain.Entities;
+using Newtonsoft.Json.Linq;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -8,6 +10,8 @@ namespace Funcional.Health.Bank.Interface
 {
 	public interface IAccountService
 	{
-		Task<double> Draw(string numberAccount, string value);
+		Task<Account> Draw(OperationDto dto);
+		Task<Account> Deposit(OperationDto dto);
+		Task<decimal> Balance(Guid numberAccount);
 	}
 }

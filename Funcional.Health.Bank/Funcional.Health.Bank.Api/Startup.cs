@@ -33,7 +33,7 @@ namespace Funcional.Health.Bank.Api
 			services.AddControllers();
 			services.AddSwaggerGen(f =>
 			{
-				f.SwaggerDoc("v1", new OpenApiInfo { Title = "Funcional.Health.Bank.Api", Version = "v1" });
+				f.SwaggerDoc("v1", new OpenApiInfo { Title = "Funcional.Health.Bank", Version = "v1" });
 
 				var xmlFile = $"{Assembly.GetExecutingAssembly().GetName().Name}.xml";
 				var xmlPath = Path.Combine(AppContext.BaseDirectory, xmlFile);
@@ -49,7 +49,7 @@ namespace Funcional.Health.Bank.Api
 			{
 				app.UseDeveloperExceptionPage();
 				app.UseSwagger();
-				app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "Funcional.Health.Bank.Api v1"));
+				app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "Funcional.Health.Bank v1"));
 			}
 
 			app.UseHttpsRedirection();

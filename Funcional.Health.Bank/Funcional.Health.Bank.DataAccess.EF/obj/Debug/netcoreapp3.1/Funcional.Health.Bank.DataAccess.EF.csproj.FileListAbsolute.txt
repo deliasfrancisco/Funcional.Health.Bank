@@ -1,0 +1,15 @@
+C:\Users\Diego Francisco\Documents\Funcional.Health.Bank\Funcional.Health.Bank\Funcional.Health.Bank.DataAccess.EF\bin\Debug\netcoreapp3.1\Funcional.Health.Bank.DataAccess.EF.deps.json
+C:\Users\Diego Francisco\Documents\Funcional.Health.Bank\Funcional.Health.Bank\Funcional.Health.Bank.DataAccess.EF\bin\Debug\netcoreapp3.1\Funcional.Health.Bank.DataAccess.EF.dll
+C:\Users\Diego Francisco\Documents\Funcional.Health.Bank\Funcional.Health.Bank\Funcional.Health.Bank.DataAccess.EF\bin\Debug\netcoreapp3.1\Funcional.Health.Bank.DataAccess.EF.pdb
+C:\Users\Diego Francisco\Documents\Funcional.Health.Bank\Funcional.Health.Bank\Funcional.Health.Bank.DataAccess.EF\bin\Debug\netcoreapp3.1\Funcional.Health.Bank.Domain.dll
+C:\Users\Diego Francisco\Documents\Funcional.Health.Bank\Funcional.Health.Bank\Funcional.Health.Bank.DataAccess.EF\bin\Debug\netcoreapp3.1\Funcional.Health.Bank.Domain.pdb
+C:\Users\Diego Francisco\Documents\Funcional.Health.Bank\Funcional.Health.Bank\Funcional.Health.Bank.DataAccess.EF\obj\Debug\netcoreapp3.1\Funcional.Health.Bank.DataAccess.EF.csprojAssemblyReference.cache
+C:\Users\Diego Francisco\Documents\Funcional.Health.Bank\Funcional.Health.Bank\Funcional.Health.Bank.DataAccess.EF\obj\Debug\netcoreapp3.1\Funcional.Health.Bank.DataAccess.EF.AssemblyInfoInputs.cache
+C:\Users\Diego Francisco\Documents\Funcional.Health.Bank\Funcional.Health.Bank\Funcional.Health.Bank.DataAccess.EF\obj\Debug\netcoreapp3.1\Funcional.Health.Bank.DataAccess.EF.AssemblyInfo.cs
+C:\Users\Diego Francisco\Documents\Funcional.Health.Bank\Funcional.Health.Bank\Funcional.Health.Bank.DataAccess.EF\obj\Debug\netcoreapp3.1\Funcional.Health.Bank.DataAccess.EF.csproj.CoreCompileInputs.cache
+C:\Users\Diego Francisco\Documents\Funcional.Health.Bank\Funcional.Health.Bank\Funcional.Health.Bank.DataAccess.EF\obj\Debug\netcoreapp3.1\Funcional.Health.Bank.DataAccess.EF.csproj.CopyComplete
+C:\Users\Diego Francisco\Documents\Funcional.Health.Bank\Funcional.Health.Bank\Funcional.Health.Bank.DataAccess.EF\obj\Debug\netcoreapp3.1\Funcional.Health.Bank.DataAccess.EF.dll
+C:\Users\Diego Francisco\Documents\Funcional.Health.Bank\Funcional.Health.Bank\Funcional.Health.Bank.DataAccess.EF\obj\Debug\netcoreapp3.1\Funcional.Health.Bank.DataAccess.EF.pdb
+C:\Users\Diego Francisco\Documents\Funcional.Health.Bank\Funcional.Health.Bank\Funcional.Health.Bank.DataAccess.EF\bin\Debug\netcoreapp3.1\Funcional.Health.Bank.DataAccess.EF.runtimeconfig.json
+C:\Users\Diego Francisco\Documents\Funcional.Health.Bank\Funcional.Health.Bank\Funcional.Health.Bank.DataAccess.EF\bin\Debug\netcoreapp3.1\Funcional.Health.Bank.DataAccess.EF.runtimeconfig.dev.json
+C:\Users\Diego Francisco\Documents\Funcional.Health.Bank\Funcional.Health.Bank\Funcional.Health.Bank.DataAccess.EF\obj\Debug\netcoreapp3.1\Funcional.Health.Bank.DataAccess.EF.genruntimeconfig.cache

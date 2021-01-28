@@ -1,0 +1,9 @@
+C:\Users\Diego Francisco\Documents\Funcional.Health.Bank\Funcional.Health.Bank\Funcional.Health.Bank.Domain\bin\Debug\netcoreapp3.1\Funcional.Health.Bank.Domain.deps.json
+C:\Users\Diego Francisco\Documents\Funcional.Health.Bank\Funcional.Health.Bank\Funcional.Health.Bank.Domain\bin\Debug\netcoreapp3.1\Funcional.Health.Bank.Domain.dll
+C:\Users\Diego Francisco\Documents\Funcional.Health.Bank\Funcional.Health.Bank\Funcional.Health.Bank.Domain\bin\Debug\netcoreapp3.1\Funcional.Health.Bank.Domain.pdb
+C:\Users\Diego Francisco\Documents\Funcional.Health.Bank\Funcional.Health.Bank\Funcional.Health.Bank.Domain\obj\Debug\netcoreapp3.1\Funcional.Health.Bank.Domain.csprojAssemblyReference.cache
+C:\Users\Diego Francisco\Documents\Funcional.Health.Bank\Funcional.Health.Bank\Funcional.Health.Bank.Domain\obj\Debug\netcoreapp3.1\Funcional.Health.Bank.Domain.AssemblyInfoInputs.cache
+C:\Users\Diego Francisco\Documents\Funcional.Health.Bank\Funcional.Health.Bank\Funcional.Health.Bank.Domain\obj\Debug\netcoreapp3.1\Funcional.Health.Bank.Domain.AssemblyInfo.cs
+C:\Users\Diego Francisco\Documents\Funcional.Health.Bank\Funcional.Health.Bank\Funcional.Health.Bank.Domain\obj\Debug\netcoreapp3.1\Funcional.Health.Bank.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Diego Francisco\Documents\Funcional.Health.Bank\Funcional.Health.Bank\Funcional.Health.Bank.Domain\obj\Debug\netcoreapp3.1\Funcional.Health.Bank.Domain.dll
+C:\Users\Diego Francisco\Documents\Funcional.Health.Bank\Funcional.Health.Bank\Funcional.Health.Bank.Domain\obj\Debug\netcoreapp3.1\Funcional.Health.Bank.Domain.pdb

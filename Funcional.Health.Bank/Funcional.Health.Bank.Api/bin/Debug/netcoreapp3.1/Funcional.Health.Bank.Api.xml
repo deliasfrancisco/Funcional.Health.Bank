@@ -4,12 +4,34 @@
         <name>Funcional.Health.Bank.Api</name>
     </assembly>
     <members>
-        <member name="M:Funcional.Health.Bank.Api.Controllers.WeatherForecastController.Get">
+        <member name="M:Funcional.Health.Bank.Api.Controllers.TransactionController.Draw(Funcional.Health.Bank.Domain.DTOs.OperationDto)">
             <summary>
-            Lista de um projeto default do VS.
+            Sacar informando o número da conta e um valor válido.
             </summary>
-            <returns>Os itens da To-do list</returns>
-            <response code="200">Returna os itens da To-do list cadastrados</response>
+            <param name="numberAccount">Número da conta</param>
+            <param name="value">Valor</param>
+            <returns></returns>
+            <response code="200">Sucesso na operação</response>
+            <response code="400">Não deu certo</response>
+        </member>
+        <member name="M:Funcional.Health.Bank.Api.Controllers.TransactionController.Deposit(Funcional.Health.Bank.Domain.DTOs.OperationDto)">
+            <summary>
+            Depositar informando o número da conta e um valor válido.
+            </summary>
+            <param name="numberAccount">Número da conta</param>
+            <param name="value">Valor</param>
+            <returns></returns>
+            <response code="200">Sucesso na operação</response>
+            <response code="400">Não deu certo</response>
+        </member>
+        <member name="M:Funcional.Health.Bank.Api.Controllers.TransactionController.Balance(System.Guid)">
+            <summary>
+            Informando o saldo número da conta.
+            </summary>
+            <param name="numberAccount">Número da conta</param>
+            <returns></returns>
+            <response code="200">Sucesso na operação</response>
+            <response code="400">Não deu certo</response>
         </member>
     </members>
 </doc>
